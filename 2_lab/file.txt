@@ -1,2 +1,2 @@
 Hello world
-Hi my friend
+Hello world from the second line
